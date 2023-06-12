@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meet1733&label=Profile%20views&color=0e75b6&style=flat" alt="meet1733" /> </p>
 
-- 🌱 I’m currently learning **Databases and Authentication**
+- 🌱 I’m currently learning **Blockchain**
 
 - 💬 Ask me about **MERN**
 
